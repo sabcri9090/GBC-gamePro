@@ -1,1 +1,2 @@
-this is for GAME1007 & GAME1008
+this is for GAME1007 & GAME1001
+
