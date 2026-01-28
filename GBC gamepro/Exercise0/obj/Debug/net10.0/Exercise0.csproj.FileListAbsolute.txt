@@ -1,0 +1,14 @@
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/bin/Debug/net10.0/Exercise0
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/bin/Debug/net10.0/Exercise0.deps.json
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/bin/Debug/net10.0/Exercise0.runtimeconfig.json
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/bin/Debug/net10.0/Exercise0.dll
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/bin/Debug/net10.0/Exercise0.pdb
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/obj/Debug/net10.0/Exercise0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/obj/Debug/net10.0/Exercise0.AssemblyInfoInputs.cache
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/obj/Debug/net10.0/Exercise0.AssemblyInfo.cs
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/obj/Debug/net10.0/Exercise0.csproj.CoreCompileInputs.cache
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/obj/Debug/net10.0/Exercise0.dll
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/obj/Debug/net10.0/refint/Exercise0.dll
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/obj/Debug/net10.0/Exercise0.pdb
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/obj/Debug/net10.0/Exercise0.genruntimeconfig.cache
+/Users/pythondionysus/Desktop/untitled folder 3/Exercise0/obj/Debug/net10.0/ref/Exercise0.dll
